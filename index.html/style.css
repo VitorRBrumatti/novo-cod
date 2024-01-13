@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to right, #1900ff, #0072ff);
+}
+.carousel-item {
+    background-color: #000000;
+    flex-wrap: nowrap;
+    aspect-ratio: 16/9;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #000000;
+}
